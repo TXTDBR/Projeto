@@ -1,8 +1,4 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+ 
 package visualizacao;
 
 import controle.dao.ClienteDAO;
@@ -12,10 +8,7 @@ import java.util.logging.Logger;
 import javax.swing.JOptionPane;
 import modelo.Cliente;
 
-/**
- *
- * @author Jean
- */
+ 
 public class ClienteForm extends javax.swing.JDialog {
 
     /**
