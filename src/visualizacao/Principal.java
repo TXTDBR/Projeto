@@ -5,10 +5,7 @@
  */
 package visualizacao;
 
-/**
- *
- * @author Jean
- */
+ 
 public class Principal extends javax.swing.JFrame {
 
     /**

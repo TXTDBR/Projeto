@@ -12,10 +12,7 @@ import java.util.logging.Logger;
 import javax.swing.JOptionPane;
 import modelo.Cliente;
 
-/**
- *
- * @author Jean
- */
+ 
 public class ClienteForm extends javax.swing.JDialog {
 
     /**

@@ -11,11 +11,7 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 import javax.swing.JOptionPane;
 import modelo.Usuario;
-
-/**
- *
- * @author Jean
- */
+ 
 public class LoginForm extends javax.swing.JDialog {
 
     /**
